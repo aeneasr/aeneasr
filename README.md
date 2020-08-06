@@ -6,6 +6,8 @@ I author and maintain popular open source projects which are primarily written i
 - ORY Foundation GmbH which runs the open source [github.com/ory](https://github.com/ory) organization;
 - ORY Corp which commercializes the open source ORY stack.
 
+Currently I work full-time at ORY Corp where my responsibility is to develop the open source ORY stack and the commercial ORY offering.
+
 ## Projects
 
 These are projects I started and either still maintain or maintained for a significant amount of time.
