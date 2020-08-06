@@ -1,12 +1,10 @@
-Hi there!
+Hi there, welcome to my MySpace...I mean GitHub profile page!
 
 I author and maintain popular open source projects which are primarily written in Go or React. I care deeply about education, climate change, data privacy and ownership which is why I have founded/co-founded
 
 - Serlo Education e.V., a German non-profit NGO which operate the open education platform www.serlo.org and brings educational resources (math, physics, chemistry, German, ...) without advertising and free of charge to millions of users per month;
 - ORY Foundation GmbH which runs the open source [github.com/ory](https://github.com/ory) organization;
 - ORY Corp which commercializes the open source ORY stack.
-
-
 
 ## Projects
 
