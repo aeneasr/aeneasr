@@ -7,9 +7,11 @@ I author and maintain popular open source projects which are primarily written i
 
 Currently I work full-time at ORY where my responsibility is writing the ORY software stack.
 
+I also enjoy taking pictures which you can find at [__aeneas](https://www.instagram.com/__aeneas/).
+
 ## Projects
 
-These are projects I started and either still maintain or maintained for a significant amount of time.
+These are projects I started and either still maintain or maintained for a significant amount of time and am particularly proud of.
 
 | Project                                                | GitHub Stars | Description                                                                                                                                                                                                                   |
 |--------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,3 +23,5 @@ These are projects I started and either still maintain or maintained for a signi
 | [ORY Dockertest](https://github.com/ory/dockertest)    | 1.3k+        | Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.                                                                                                      |
 | [ORY Keto](https://github.com/ory/keto)                | 600+         | A cloud native access control server providing best-practice patterns (RBAC, ABAC, ACL, AWS IAM Policies, Kubernetes Roles, ...) via REST APIs. Written in Go.                                                                |
 | [ORY Fosite](https://github.com/ory/fosite)            | 1.4k+        | Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.                                                                                                                                                            |
+
+There are many other projects I contribute to or have initiated, which you can probably find by going through my public commit history.
