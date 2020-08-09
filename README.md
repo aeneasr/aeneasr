@@ -22,4 +22,8 @@ These are projects I started and either still maintain or maintained for a signi
 | [ORY Keto](https://github.com/ory/keto)                | 600+         | A cloud native access control server providing best-practice patterns (RBAC, ABAC, ACL, AWS IAM Policies, Kubernetes Roles, ...) via REST APIs. Written in Go.                                                                |
 | [ORY Fosite](https://github.com/ory/fosite)            | 1.4k+        | Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.                                                                                                                                                            |
 
-There are many other projects I contribute to or have initiated, which you can probably find by going through my public commit history.
+There are many other projects I contribute to which are displayed in my public commit history.
+
+## Research
+
+My master thesis in computer science [*Distributed linear correlation cluster detection using MapReduce*](./rek-18.pdf) applies mathematic projections and computer graphic algorithms to high-volume and high-dimensional data in order to find meaningful patterns in reasonable time. Because I decided against pusruing a PhD it is my only public research paper to date. I simply enjoy writing code more than text ;)
