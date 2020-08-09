@@ -26,7 +26,7 @@ There are many other projects I contribute to which are displayed in my public c
 
 ## Research
 
-My master thesis in computer science [*Distributed linear correlation cluster detection using MapReduce*](./rek18-lmu.pdf) applies mathematic projections and computer graphic algorithms to high-volume and high-dimensional data in order to find meaningful patterns in reasonable time. Because I decided against pusruing a PhD it is my only public research paper to date. I simply enjoy writing code more than text ;)
+My master thesis in computer science [*Distributed linear correlation cluster detection using MapReduce*](./rek18-lmu.pdf) applies mathematic projections and computer graphic algorithms to high-volume and high-dimensional data in order to find meaningful patterns in reasonable time. Because I decided against pursuing a PhD it is my only public research paper to date.Writing code is more enjoyable than writing than text to me ;)
 
 ## Shoutouts
 
