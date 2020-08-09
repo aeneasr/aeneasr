@@ -31,6 +31,6 @@ My master thesis in computer science [*Distributed linear correlation cluster de
 ## Shoutouts
 
 - [edtr.io](https://edtr.io) by brilliant [@inyono](https://github.com/inyono) and [Knorrke](https://github.com/Knorrke). 
-- [Bitwarden](https://github.com/bitwarden/)
-- [lmars](https://github.com/lmars) for helping to get better at git, cloud architecture, Go, and React when reviewing my contributions to [flynn](https://github.com/flynn).,
+- [Bitwarden](https://github.com/bitwarden/).
+- [lmars](https://github.com/lmars) for helping to get better at git, cloud architecture, Go, and React when reviewing my contributions to [flynn](https://github.com/flynn).
 - ... you/your project? Throw up a PR and we'll see :)
