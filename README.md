@@ -5,6 +5,8 @@ I author and maintain popular open source projects which are primarily written i
 - co-founded Serlo Education e.V. in 2009/2010, a German non-profit NGO which operates the open education platform www.serlo.org and brings educational resources (math, physics, chemistry, German, ...) without advertising and free of charge to millions of users per month. German President Frank Walter-Steinmeier awarded us with Germany's Federal Cross of Merit in 2019 for our work at Serlo;
 - founded the [ORY open source organization](https://github.com/ory) in 2016 which provides popular developer tools in the area of user/identity management, access control, policy management, user privacy, delegation and federation, cloud automation, and cloud security.
 
+<img src="https://github-readme-stats.vercel.app/api?username=aeneasr&show_icons=true&count_private=true" align="right" />
+
 Currently I work full-time at ORY where my responsibility is primarily writing the ORY software stack. I also enjoy landscape photography which you can find at [__aeneas](https://www.instagram.com/__aeneas/). You may also find me on [LinkedIn](https://www.linkedin.com/in/aeneasr/) from time to time.
 
 ## Projects
