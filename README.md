@@ -1,4 +1,4 @@
-Hi there, welcome to my MySpace...I mean GitHub profile page!
+![HACKERMAN](./hackerman.svg)
 
 I author and maintain popular open source projects which are primarily written in Go or React. I care deeply about education, climate change, data privacy and ownership which is why I have
 
