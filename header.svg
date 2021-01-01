@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <style type="text/css">
             html, body{
@@ -6,9 +6,9 @@
                 font-weight: 800;
             }
 
-            body{
+            svg {
                 background: #030321;
-                font-family: Arial;
+                font-family: Helvetica, sans-serif;
             }
 
             svg {
@@ -29,27 +29,27 @@
             }
 
             .text-copy:nth-child(1){
-                stroke: #4D163D;
+                stroke: #264653;
                 animation-delay: -1;
             }
 
             .text-copy:nth-child(2){
-                stroke: #840037;
+                stroke: #2a9d8f;
                 animation-delay: -2s;
             }
 
             .text-copy:nth-child(3){
-                stroke: #BD0034;
+                stroke: #e9c46a;
                 animation-delay: -3s;
             }
 
             .text-copy:nth-child(4){
-                stroke: #BD0034;
+                stroke: #f4a261;
                 animation-delay: -4s;
             }
 
             .text-copy:nth-child(5){
-                stroke: #FDB731;
+                stroke: #e76f51;
                 animation-delay: -5s;
             }
 
