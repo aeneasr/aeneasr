@@ -11,3 +11,7 @@ In 2016 I founded the [ORY open source organization](https://github.com/ory) whi
 Currently I work full-time at Ory where my responsibility is building software. Projects I am most proud of are pinned below. There are many other projects I contribute to which are displayed in my public commit history.
 
 My master thesis in computer science [*Distributed linear correlation cluster detection using MapReduce*](./rek18-lmu.pdf) applies mathematic projections and computer graphic algorithms to high-volume and high-dimensional data in order to find meaningful patterns in reasonable time.
+
+If you're here to pass your time, why not give [stargazer](https://github.com/aeneasr/stargazer) a try?
+
+[![Stargazer](https://raw.githubusercontent.com/arekkas/stargazer/master/stargazer.png)](http://aeneasr.github.io/stargazer/app/)
