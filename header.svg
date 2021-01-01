@@ -7,7 +7,6 @@
             }
 
             svg {
-                background: #030321;
                 font-family: Helvetica, sans-serif;
             }
 
